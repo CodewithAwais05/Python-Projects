@@ -2,7 +2,7 @@
 
 A simple, menu-driven **Student Management System** built in Python. It allows you to add, view, update, and delete student records — including academic and guardian details — with persistent storage using JSON.
 
-This project is part of my **[Python-Projects](../)** repository.
+This project is part of my **[Python-Projects](https://github.com/CodewithAwais05/Python-Projects)** repository.
 
 ---
 
