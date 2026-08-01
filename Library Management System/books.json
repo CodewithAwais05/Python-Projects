@@ -1,0 +1,15 @@
+{
+    "1": {
+        "book_id": "1",
+        "title": "OOP (C++)",
+        "author": "Robert Lafore",
+        "publisher": "Lafore",
+        "category": "Programming",
+        "edition": "10th",
+        "publication_year": "2016",
+        "isbn": "564q5",
+        "total_copies": 4,
+        "available_copies": 3,
+        "status": "Available"
+    }
+}
