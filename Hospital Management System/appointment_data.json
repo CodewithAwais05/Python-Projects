@@ -1,0 +1,10 @@
+{
+    "301": {
+        "appointment_id": "301",
+        "patient_id": "101",
+        "doctor_id": "201",
+        "appointment_date": "2026-08-20",
+        "appointment_time": "4:00",
+        "appointment_status": "Booked"
+    }
+}

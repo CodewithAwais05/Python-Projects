@@ -1,0 +1,26 @@
+{
+    "201": {
+        "doctor_id": "201",
+        "doctor_name": "Ali",
+        "doctor_specialization": "Nutritionist",
+        "doctor_phone": "0345-6549607",
+        "doctor_email": "ali234@gmail.com",
+        "doctor_experience": "4+ years"
+    },
+    "202": {
+        "doctor_id": "202",
+        "doctor_name": "Ahmed",
+        "doctor_specialization": "Physician",
+        "doctor_phone": "0345-6549608",
+        "doctor_email": "ahmad234@gmail.com",
+        "doctor_experience": "4+ years"
+    },
+    "203": {
+        "doctor_id": "203",
+        "doctor_name": "Aisha",
+        "doctor_specialization": "Surgeon",
+        "doctor_phone": "0345-6549609",
+        "doctor_email": "aisha234@gmail.com",
+        "doctor_experience": "4+ years"
+    }
+}

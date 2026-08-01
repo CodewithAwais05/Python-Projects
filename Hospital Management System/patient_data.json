@@ -1,0 +1,32 @@
+{
+    "101": {
+        "patient_id": "101",
+        "patient_name": "Awais",
+        "patient_age": 20,
+        "patient_gender": "Male",
+        "patient_address": "FSD",
+        "patient_phone": "0324-8765543",
+        "patient_blood_group": "AB+",
+        "patient_disease": "Fever"
+    },
+    "102": {
+        "patient_id": "102",
+        "patient_name": "Ahmed",
+        "patient_age": 25,
+        "patient_gender": "Male",
+        "patient_address": "LHR",
+        "patient_phone": "0324-8765543",
+        "patient_blood_group": "B+",
+        "patient_disease": "Fracture"
+    },
+    "103": {
+        "patient_id": "103",
+        "patient_name": "Ali",
+        "patient_age": 30,
+        "patient_gender": "Male",
+        "patient_address": "ISL",
+        "patient_phone": "0324-8765343",
+        "patient_blood_group": "O+",
+        "patient_disease": "Jaundice"
+    }
+}
