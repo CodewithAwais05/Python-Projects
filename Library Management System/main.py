@@ -163,6 +163,9 @@ class Library:
 def main():
     library = Library()
     while True:
+        print("\n========================================")
+        print("        LIBRARY MANAGEMENT SYSTEM       ")
+        print("========================================\n")
         print("1. Add Book Record")
         print("2. Display Book Record")
         print("3. Update Book Record")
