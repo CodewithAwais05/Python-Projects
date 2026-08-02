@@ -103,5 +103,6 @@ QR Code Generator/
 ├── main.py          # Main script
 ├── README.md         # This file
 ├── venv/              # Virtual environment (not tracked in version control)
+├── Screenshots/              # Screenshots of the output
 └── google_qr.png     # Generated QR code (created after running the script)
 ```
