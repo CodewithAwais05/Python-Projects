@@ -1,0 +1,9 @@
+# 1. Run: py -3.14 -m venv venv This creates a folder called 'venv' using your Python314 install specifically, not the MSYS2 one. If 'py -3.14' isn't recognized, run 'py -0' first to list installed versions and use the matching flag.
+
+# 2. Run: venv\Scripts\activate Your terminal prompt should now show (venv) at the start of the line. This confirms the venv is active and python/pip inside this terminal will only point to it.
+
+# 3. Run: pip install qrcode[pil] This installs qrcode and pillow fresh into the venv's own site-packages, separate from both your global Python314 and MSYS2 installs.
+
+# 4. Press Ctrl+Shift+P, type 'Python: Select Interpreter', and choose the one showing .\venv\Scripts\python.exe (it may be labeled 'venv' with a checkmark once selected). This makes VS Code's Run button and terminal consistent.
+
+# 5. With (venv) still active in the terminal, run: python main.py It should now execute without the ModuleNotFoundError, and google_qr.png should appear in your project folder.
